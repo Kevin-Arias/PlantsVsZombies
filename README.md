@@ -6,3 +6,12 @@ As the ant queen, you populate your colony with the bravest ants you can muster.
 <img width="990" alt="ants" src="https://user-images.githubusercontent.com/16792195/51099724-3b094d80-1787-11e9-86db-9eb6d24cbe82.png">
 
 ## How To Play
+
+Once all of the files are acquired, go to your terminal and go to the corresponding directory. In order to launch the game, you must enter the following command:
+
+python3 ants_gui.py -d DIFFICULTY -w 
+
+Replace DIFFICULTY with one of the following in order to set the difficulty of the game: easy, normal, hard, or insane.
+Having -w loads a full layout that includes water spaces, if you do not want any water spaces eliminate -w from the command.
+
+
