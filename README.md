@@ -15,3 +15,4 @@ Replace DIFFICULTY with one of the following in order to set the difficulty of t
 Having -w loads a full layout that includes water spaces, if you do not want any water spaces eliminate -w from the command.
 
 
+HAVE FUN AND ENJOY!
